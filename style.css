@@ -156,6 +156,9 @@ section {
   
   .section-container {
     display: flex;
+    /* position: middle; */
+    justify-content: center;
+    gap: 5rem;
   }
   
   /* PROFILE SECTION */
