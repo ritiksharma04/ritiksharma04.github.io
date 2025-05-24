@@ -354,6 +354,146 @@ section {
     cursor: default;
   }
 
+/* Projects Section */
+.projects-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.project-card {
+  width: calc(50% - 1rem); /* Half width minus gap */
+  border-radius: 1rem;
+  border: 0.1rem solid rgb(163, 163, 163);
+  background: white;
+  padding: 1.5rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+}
+
+.project-content {
+  padding: 1rem 0;
+}
+
+.project-title {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: #333;
+  text-align: center;
+}
+
+.project-details {
+  list-style-type: none;
+  margin-bottom: 1.5rem;
+}
+
+.project-details li {
+  position: relative;
+  padding-left: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: #555;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.project-details li::before {
+  content: '•';
+  position: absolute;
+  left: 0;
+  color: var(--primary);
+  font-weight: bold;
+}
+
+.project-tech {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.project-tech span {
+  background-color: #f0f0f0;
+  padding: 0.3rem 0.8rem;
+  border-radius: 2rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: #333;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: center;
+}
+
+.project-btn {
+  width: 120px;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 768px) {
+  .project-card {
+    width: 100%; /* Full width on mobile */
+  }
+}
+/* Project Box Styling */
+
+.project-box-container {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.project-box {
+  background: white;
+  border-radius: 2rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+  border-color: rgb(163, 163, 163);
+  padding: 1.5rem;
+  flex: 1;
+  min-width: 400px;
+  max-width: 45%;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+@media (max-width: 900px) {
+  .project-box-container {
+    flex-direction: column;
+  }
+  .project-box {
+    max-width: 100%;
+    min-width: auto;
+  }
+}
+.tech-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+
+.tech-tag {
+  background: #f0f0f0;
+  padding: 0.3rem 0.8rem;
+  border-radius: 2rem;
+  font-size: 0.9rem;
+}
+
+@media screen and (max-width: 768px) {
+  .project-box {
+    width: 100%;
+  }
+}
+
 /* CONTACT */
 
 #contact {
