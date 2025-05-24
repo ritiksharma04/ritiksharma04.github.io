@@ -160,6 +160,77 @@ section {
     justify-content: center;
     gap: 5rem;
   }
+
+  /* About Section Structure */
+.about-details-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.summary-container {
+  background: white;
+  padding: 2rem;
+  border-radius: 1.5rem;
+  border: 0.1rem solid rgb(163, 163, 163);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.details-card {
+  display: flex;
+  align-items: start;
+  gap: 2rem;
+  background: white;
+  padding: 2rem;
+  border-radius: 1.5rem;
+  border: 0.1rem solid rgb(163, 163, 163);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.details-content {
+  flex: 1;
+}
+
+.details-card h3 {
+  color: #2c3e50;
+  margin-bottom: 1.5rem;
+}
+
+.experience-item, .education-item {
+  margin-bottom: 2rem;
+}
+
+.experience-item h4 {
+  color: #3498db;
+  margin-bottom: 0.5rem;
+}
+
+.experience-item ul {
+  padding-left: 1.5rem;
+}
+
+.experience-item li {
+  margin-bottom: 0.5rem;
+  color: #555;
+}
+
+.education-item p {
+  color: #555;
+  margin: 0.3rem 0;
+}
+
+@media (max-width: 768px) {
+  .details-card {
+    flex-direction: column;
+    padding: 1.5rem;
+  }
+  
+  .summary-container {
+    padding: 1.5rem;
+  }
+}
   
   /* PROFILE SECTION */
   
