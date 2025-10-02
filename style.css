@@ -1,8 +1,38 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
 
+/* VARIABLES */
+:root {
+  --primary-color: #007bff;
+  --primary-color-dark: #0056b3;
+  --secondary-color: #6c757d;
+  --text-color-light: #f8f9fa;
+  --text-color-dark: #343a40;
+  --background-color-light: #ffffff;
+  --background-color-dark: #121212;
+  --card-bg-light: #f8f9fa;
+  --card-bg-dark: #1e1e1e;
+  --border-color-light: #dee2e6;
+  --border-color-dark: #343a40;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: var(--background-color-light);
+  color: var(--text-color-dark);
+  transition: background-color 0.3s, color 0.3s;
+}
+
+body.dark-theme {
+  --background-color-light: var(--background-color-dark);
+  --text-color-dark: var(--text-color-light);
+  --card-bg-light: var(--card-bg-dark);
+  --border-color-light: var(--border-color-dark);
+}
+
 * {
-    padding: 0;
-    margin: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
@@ -148,10 +178,9 @@ a:hover {
 section {
     padding-top: 4vh;
     padding-bottom: 10vh;
-    height: 46vh;
+    min-height: fit-content;
     margin: 0 10rem;
     box-sizing: border-box;
-    min-height: fit-content;
   }
   
   .section-container {
@@ -171,10 +200,10 @@ section {
 }
 
 .summary-container {
-  background: white;
+  background: var(--card-bg-light);
   padding: 2rem;
   border-radius: 1.5rem;
-  border: 0.1rem solid rgb(163, 163, 163);
+  border: 0.1rem solid var(--border-color-light);
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
@@ -182,10 +211,10 @@ section {
   display: flex;
   align-items: start;
   gap: 2rem;
-  background: white;
+  background: var(--card-bg-light);
   padding: 2rem;
   border-radius: 1.5rem;
-  border: 0.1rem solid rgb(163, 163, 163);
+  border: 0.1rem solid var(--border-color-light);
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
@@ -194,7 +223,7 @@ section {
 }
 
 .details-card h3 {
-  color: #2c3e50;
+  color: var(--text-color-dark);
   margin-bottom: 1.5rem;
 }
 
@@ -203,7 +232,7 @@ section {
 }
 
 .experience-item h4 {
-  color: #3498db;
+  color: var(--primary-color);
   margin-bottom: 0.5rem;
 }
 
@@ -213,11 +242,11 @@ section {
 
 .experience-item li {
   margin-bottom: 0.5rem;
-  color: #555;
+  color: var(--text-color-dark);
 }
 
 .education-item p {
-  color: #555;
+  color: var(--text-color-dark);
   margin: 0.3rem 0;
 }
 
@@ -231,6 +260,7 @@ section {
     padding: 1.5rem;
   }
 }
+
   
   /* PROFILE SECTION */
   
@@ -325,6 +355,13 @@ section {
   
   .btn-color-2 {
     background: none;
+    border: 0.1rem solid var(--text-color-dark);
+    color: var(--text-color-dark);
+  }
+  
+  body.dark-theme .btn-color-2 {
+    border: 0.1rem solid var(--text-color-light);
+    color: var(--text-color-light);
   }
   
   .btn-color-2:hover {
@@ -403,6 +440,8 @@ section {
     display: flex;
     justify-content: center;
     flex-direction: column;
+    max-width: 800px;
+    margin: 0 auto;
   }
   
   .article-container {
@@ -525,10 +564,9 @@ section {
 }
 
 .project-box {
-  background: white;
+  background: var(--card-bg-light);
   border-radius: 2rem;
-  border: rgb(53, 53, 53) 0.1rem solid;
-  border-color: rgb(163, 163, 163);
+  border: 0.1rem solid var(--border-color-light);
   padding: 1.5rem;
   flex: 1;
   min-width: 400px;
@@ -553,10 +591,16 @@ section {
 }
 
 .tech-tag {
-  background: #f0f0f0;
+  background-color: var(--border-color-light);
   padding: 0.3rem 0.8rem;
   border-radius: 2rem;
   font-size: 0.9rem;
+  color: var(--text-color-dark);
+}
+
+body.dark-theme .tech-tag {
+  background-color: var(--border-color-dark);
+  color: var(--text-color-light);
 }
 
 @media screen and (max-width: 768px) {
@@ -595,6 +639,19 @@ section {
 
 .contact-info-container p {
   font-size: larger;
+  color: var(--text-color-dark);
+}
+
+body.dark-theme .contact-info-container p {
+  color: var(--text-color-light);
+}
+
+.contact-info-container a {
+  color: var(--text-color-dark);
+}
+
+body.dark-theme .contact-info-container a {
+  color: var(--text-color-light);
 }
 
 .contact-icon {
@@ -614,5 +671,118 @@ footer {
 
 footer p {
   text-align: center;
+  color: var(--text-color-dark);
 }
-  
+
+body.dark-theme footer p {
+  color: var(--text-color-light);
+}
+
+/* Theme Switch */
+.theme-switch-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.theme-switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+.theme-switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: var(--primary-color);
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px var(--primary-color);
+}
+
+input:checked + .slider:before {
+  transform: translateX(26px);
+}
+
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+#mobile-theme-toggle {
+  cursor: pointer;
+  font-size: 1.2rem;
+}
+
+/* Animations */
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+
+.fade-in.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@keyframes wave-animation {
+  0% { transform: rotate(0.0deg) }
+  10% { transform: rotate(14.0deg) }
+  20% { transform: rotate(-8.0deg) }
+  30% { transform: rotate(14.0deg) }
+  40% { transform: rotate(-4.0deg) }
+  50% { transform: rotate(10.0deg) }
+  60% { transform: rotate(0.0deg) }
+  100% { transform: rotate(0.0deg) }
+}
+
+.wave {
+  animation-name: wave-animation;
+  animation-duration: 2.5s;
+  animation-iteration-count: infinite;
+  transform-origin: 70% 70%;
+  display: inline-block;
+}
+
+#view-count {
+  text-align: center;
+  margin-top: 1rem;
+  font-size: 1rem;
+  color: var(--text-color-dark);
+}
+
+.dark-theme #view-count {
+  color: var(--text-color-light);
+}

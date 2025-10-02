@@ -3,10 +3,12 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <title>My Portfolio</title>
     <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" href="mediaqueries.css" />
+    <script src="config.js"></script>
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -18,9 +20,14 @@
                 <li><a href="#skills">Skills</a></li>
                 <li><a href="#projects">Projects</a></li>
                 <li><a href="#contact">Contact</a></li>
-
-            </ul>
-        </div>
+                <li>
+                  <div class="theme-switch-wrapper">
+                    <label class="theme-switch" for="checkbox">
+                      <input type="checkbox" id="checkbox" />
+                      <div class="slider round"></div>
+                    </label>
+                  </div>
+                </li>        </div>
     </nav>
     <!-- Dropdown contents-->
     <nav id="hamburger-nav">
@@ -36,25 +43,22 @@
                 <li><a href="#skills" onclick="toggleMenu()">Skills</a></li>
                 <li><a href="#projects" onclick="toggleMenu()">Projects</a></li>
                 <li><a href="#contact" onclick="toggleMenu()">Contact</a></li>
+
+                
             </div>
         </div>
         <script src="scripts.js"></script>
     </nav>
-    <section id = "profile">
+    <section id="profile" class="fade-in">
         <div class="section__pic-container">
             <img src="./images/my/circular.png" alt="profile picture" />
           </div>
           <div class="section__text">
-            <p class="section__text__p1">Hello, I'm</p>
+            <p class="section__text__p1">Hello, I'm <span id="wave-animation" class="wave">👋</span></p>
             <h1 class="title">Ritik</h1>
             <p class="section__text__p2">Python Developer</p>
             <div class="btn-container">
-              <button
-                class="btn btn-color-2"
-                onclick="window.open('https://www.overleaf.com/read/psdscdbjpcjj#5d96b7')"
-              >
-                Download CV
-              </button>
+              <a href="#" target="_blank" class="btn btn-color-2 resume-btn">Resume</a>
               <button class="btn btn-color-1" onclick="location.href='./#contact'">
                 Contact Info
               </button>
@@ -76,7 +80,7 @@
           </div>
     </section>
 
-    <section id="about">
+    <section id="about" class="fade-in">
       <p class="section__text__p1">Get To Know More</p>
       <h1 class="title">About Me</h1>
       <div class="section-container">
@@ -89,7 +93,15 @@
               efficient solutions through clean code and robust architecture.
             </p>
           </div>
-    
+        </div>
+      </div>
+    </section>
+
+    <section id="experience" class="fade-in">
+      <p class="section__text__p1">Professional & Academic</p>
+      <h1 class="title">Experience</h1>
+      <div class="section-container">
+        <div class="about-details-container">
           <!-- Experience Section -->
           <div class="details-card">
             <img src="./images/experience.png" alt="Experience icon" class="icon" />
@@ -132,11 +144,12 @@
         </div>
       </div>
     </section>
+    </section>
 
   <!-- Skills Section -->
-  <section id='skills'>
+  <section id='skills' class="fade-in">
     <p class="section__text__p1">Explore My</p>
-    <h1 class="title">Experience</h1>
+    <h1 class="title">Skills</h1>
     <div class="experience-details-container">
       <div class="about-containers">
       <div class="details-container"></div>
@@ -238,7 +251,7 @@
     
 </section>
 
-<section id="projects">
+<section id="projects" class="fade-in">
   <p class="section__text__p1">Browse My Recent</p>
   <h1 class="title">Projects</h1>
   <div class="project-box-container">
@@ -288,7 +301,7 @@
   </div>
 </section>
 
-  <section id="contact">
+  <section id="contact" class="fade-in">
     <p class="section__text__p1">Get in Touch</p>
     <h1 class="title">Contact Me</h1>
     <div class="contact-info-upper-container">
@@ -322,6 +335,7 @@
       </div>
     </nav>
     <p>Copyright 2025 Ritik. All Rights Reserved.</p>
+    <div id="view-count"></div>
   </footer>
   <script src="script.js"></script>
 
