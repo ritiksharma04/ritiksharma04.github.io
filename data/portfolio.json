@@ -351,7 +351,7 @@
       "name": "Moodshare",
       "description": "Twitter-inspired blog sharing web application",
       "emoji": "💭",
-      "image": null,
+      "image": "images/projects/moodshare-preview.png",
       "highlights": [
         "Seamless functionality for 7+ concurrent users",
         "OAuth-based authentication for secure access",
@@ -360,7 +360,7 @@
       ],
       "tech": ["Python", "Flask", "SQLAlchemy", "Bootstrap"],
       "github": "https://github.com/ritiksharma04",
-      "live": null
+      "live": "https://cryinghero.pythonanywhere.com/"
     },
     {
       "id": "emotion-player",
