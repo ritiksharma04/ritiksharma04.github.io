@@ -1474,7 +1474,46 @@ nav {
   background: var(--bg-secondary);
 }
 
+/* Mobile API Tabs */
+.api-mobile-tabs {
+  display: none;
+  padding: var(--space-sm);
+  background: var(--bg-secondary);
+  border-bottom: 1px solid var(--border);
+  overflow-x: auto;
+  gap: var(--space-xs);
+}
+
+.api-mobile-tab {
+  padding: var(--space-xs) var(--space-md);
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  color: var(--text-secondary);
+  font-size: 0.8rem;
+  font-weight: 500;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all var(--transition-fast);
+  font-family: var(--font-sans);
+}
+
+.api-mobile-tab:hover {
+  background: var(--bg-card);
+  color: var(--text-primary);
+}
+
+.api-mobile-tab.active {
+  background: var(--accent);
+  color: #000;
+  border-color: var(--accent);
+}
+
 @media (max-width: 900px) {
+  .api-mobile-tabs {
+    display: flex;
+  }
+
   .browser-content {
     grid-template-columns: 1fr;
   }

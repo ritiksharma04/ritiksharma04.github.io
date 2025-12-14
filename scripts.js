@@ -138,25 +138,56 @@ const apiEndpoints = {
 function renderApiDemo() {
   const apiCode = document.getElementById('apiCode');
   const apiSidebar = document.getElementById('apiSidebar');
+  const apiMobileTabs = document.getElementById('apiMobileTabs');
 
-  if (!apiCode || !apiSidebar) return;
+  if (!apiCode) return;
 
   // Render initial endpoint
   updateApiDisplay('developer');
 
-  // Add click listeners to sidebar items
-  apiSidebar.querySelectorAll('.browser-sidebar-item[data-endpoint]').forEach(item => {
-    item.addEventListener('click', () => {
-      const endpoint = item.dataset.endpoint;
+  // Add click listeners to sidebar items (desktop)
+  if (apiSidebar) {
+    apiSidebar.querySelectorAll('.browser-sidebar-item[data-endpoint]').forEach(item => {
+      item.addEventListener('click', () => {
+        const endpoint = item.dataset.endpoint;
 
-      // Update active state
-      apiSidebar.querySelectorAll('.browser-sidebar-item').forEach(i => i.classList.remove('active'));
-      item.classList.add('active');
+        // Update active state for sidebar
+        apiSidebar.querySelectorAll('.browser-sidebar-item').forEach(i => i.classList.remove('active'));
+        item.classList.add('active');
 
-      // Update display
-      updateApiDisplay(endpoint);
+        // Also update mobile tabs
+        if (apiMobileTabs) {
+          apiMobileTabs.querySelectorAll('.api-mobile-tab').forEach(t => t.classList.remove('active'));
+          apiMobileTabs.querySelector(`[data-endpoint="${endpoint}"]`)?.classList.add('active');
+        }
+
+        // Update display
+        updateApiDisplay(endpoint);
+      });
     });
-  });
+  }
+
+  // Add click listeners to mobile tabs
+  if (apiMobileTabs) {
+    apiMobileTabs.querySelectorAll('.api-mobile-tab[data-endpoint]').forEach(tab => {
+      tab.addEventListener('click', () => {
+        const endpoint = tab.dataset.endpoint;
+
+        // Update active state for mobile tabs
+        apiMobileTabs.querySelectorAll('.api-mobile-tab').forEach(t => t.classList.remove('active'));
+        tab.classList.add('active');
+
+        // Also update sidebar
+        if (apiSidebar) {
+          apiSidebar.querySelectorAll('.browser-sidebar-item').forEach(i => i.classList.remove('active'));
+          apiSidebar.querySelector(`[data-endpoint="${endpoint}"]`)?.classList.add('active');
+        }
+
+        // Update display
+        updateApiDisplay(endpoint);
+      });
+    });
+  }
 }
 
 function updateApiDisplay(endpointKey) {
