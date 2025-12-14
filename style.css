@@ -1474,9 +1474,9 @@ nav {
   background: var(--bg-secondary);
 }
 
-/* Mobile API Tabs */
+/* Mobile API Tabs - Hidden on desktop, visible on mobile */
 .api-mobile-tabs {
-  display: none;
+  display: none !important;
   padding: var(--space-sm);
   background: var(--bg-secondary);
   border-bottom: 1px solid var(--border);
@@ -1511,7 +1511,7 @@ nav {
 
 @media (max-width: 900px) {
   .api-mobile-tabs {
-    display: flex;
+    display: flex !important;
   }
 
   .browser-content {
