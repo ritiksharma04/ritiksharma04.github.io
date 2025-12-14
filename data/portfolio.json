@@ -1,0 +1,439 @@
+{
+  "personal": {
+    "name": "Ritik Sharma",
+    "roles": [
+      "Python Developer",
+      "Data Engineer",
+      "Backend Developer",
+      "Software Engineer"
+    ],
+    "tagline": "Building efficient solutions through clean code and robust architecture",
+    "email": "ritikmgmt@gmail.com",
+    "linkedin": "sharma-ritik",
+    "github": "ritiksharma04",
+    "resume": "data/Resume.pdf"
+  },
+
+  "skillCategories": ["Backend", "Auth & Security", "Data & Databases", "DevOps", "Tools"],
+
+  "skills": [
+    {
+      "id": "python",
+      "name": "Python",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+      "level": "Experienced",
+      "category": "Backend",
+      "experience": [
+        "Built Flask and Django web applications",
+        "Automated email sender system at SSDN Technologies",
+        "Computer vision projects with OpenCV",
+        "Data analysis and scripting"
+      ],
+      "projects": ["moodshare", "emotion-player"]
+    },
+    {
+      "id": "java",
+      "name": "Java",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
+      "level": "Intermediate",
+      "category": "Backend",
+      "experience": [
+        "Java Developer Intern at HulkHire Tech",
+        "Integrated Stripe payment gateway with Spring Boot",
+        "Optimized REST APIs by 30% response time"
+      ],
+      "projects": []
+    },
+    {
+      "id": "django",
+      "name": "Django",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg",
+      "level": "Intermediate",
+      "category": "Backend",
+      "experience": [
+        "Built full-stack web applications",
+        "REST API development with Django REST Framework",
+        "Authentication and authorization systems"
+      ],
+      "projects": []
+    },
+    {
+      "id": "flask",
+      "name": "Flask",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg",
+      "level": "Intermediate",
+      "category": "Backend",
+      "experience": [
+        "Moodshare - Twitter-inspired blog application",
+        "Emotion Based Music Player backend",
+        "RESTful API development"
+      ],
+      "projects": ["moodshare", "emotion-player"]
+    },
+    {
+      "id": "spring",
+      "name": "Spring Boot",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg",
+      "level": "Intermediate",
+      "category": "Backend",
+      "experience": [
+        "Payment gateway integration at HulkHire Tech",
+        "REST API optimization",
+        "Agile development environment"
+      ],
+      "projects": []
+    },
+    {
+      "id": "fastapi",
+      "name": "FastAPI",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg",
+      "level": "Intermediate",
+      "category": "Backend",
+      "experience": [
+        "Backend development at NextGen Archs India",
+        "Building REST APIs with async support",
+        "JWT authentication implementation"
+      ],
+      "projects": []
+    },
+    {
+      "id": "restapi",
+      "name": "REST APIs",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openapi/openapi-original.svg",
+      "level": "Intermediate",
+      "category": "Backend",
+      "experience": [
+        "Designed and built RESTful services",
+        "API optimization (30% response time improvement)",
+        "Authentication and security implementation"
+      ],
+      "projects": ["moodshare"]
+    },
+    {
+      "id": "jwt",
+      "name": "JWT",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg",
+      "level": "Intermediate",
+      "category": "Auth & Security",
+      "experience": [
+        "Token-based authentication at NextGen Archs",
+        "Secure API endpoints with JWT validation",
+        "Refresh token implementation"
+      ],
+      "projects": []
+    },
+    {
+      "id": "keycloak",
+      "name": "Keycloak",
+      "icon": "https://www.keycloak.org/resources/images/icon.svg",
+      "level": "Intermediate",
+      "category": "Auth & Security",
+      "experience": [
+        "Identity and access management at NextGen Archs",
+        "SSO implementation for admin services",
+        "User federation and role management"
+      ],
+      "projects": []
+    },
+    {
+      "id": "oauth",
+      "name": "OAuth 2.0",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg",
+      "level": "Intermediate",
+      "category": "Auth & Security",
+      "experience": [
+        "OAuth-based authentication in Moodshare",
+        "Third-party login integration",
+        "Secure authorization flows"
+      ],
+      "projects": ["moodshare"]
+    },
+    {
+      "id": "rbac",
+      "name": "RBAC",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg",
+      "level": "Intermediate",
+      "category": "Auth & Security",
+      "experience": [
+        "Role-based access control at NextGen Archs",
+        "Permission management for admin services",
+        "Multi-tenant authorization systems"
+      ],
+      "projects": []
+    },
+    {
+      "id": "sql",
+      "name": "SQL",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg",
+      "level": "Intermediate",
+      "category": "Data & Databases",
+      "experience": [
+        "Database design and optimization",
+        "Complex queries for data retrieval",
+        "Used with PostgreSQL and SQLite"
+      ],
+      "projects": ["moodshare"]
+    },
+    {
+      "id": "postgresql",
+      "name": "PostgreSQL",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
+      "level": "Intermediate",
+      "category": "Data & Databases",
+      "experience": [
+        "Database setup and configuration",
+        "Query optimization at NextGen Archs",
+        "Used with Django, Flask, and FastAPI projects"
+      ],
+      "projects": ["moodshare"]
+    },
+    {
+      "id": "redis",
+      "name": "Redis",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg",
+      "level": "Basic",
+      "category": "Data & Databases",
+      "experience": [
+        "Caching layer implementation",
+        "Session management with JWT",
+        "Used at NextGen Archs for authentication"
+      ],
+      "projects": []
+    },
+    {
+      "id": "sqlalchemy",
+      "name": "SQLAlchemy",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg",
+      "level": "Intermediate",
+      "category": "Data & Databases",
+      "experience": [
+        "ORM for Flask applications",
+        "Database migrations and modeling",
+        "Personalized user feeds in Moodshare"
+      ],
+      "projects": ["moodshare"]
+    },
+    {
+      "id": "pandas",
+      "name": "Pandas",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg",
+      "level": "Intermediate",
+      "category": "Data & Databases",
+      "experience": [
+        "Data manipulation and analysis",
+        "CSV and Excel file processing",
+        "Data cleaning and transformation"
+      ],
+      "projects": []
+    },
+    {
+      "id": "numpy",
+      "name": "NumPy",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg",
+      "level": "Intermediate",
+      "category": "Data & Databases",
+      "experience": [
+        "Numerical computations",
+        "Array operations for data processing",
+        "Used in computer vision projects"
+      ],
+      "projects": ["emotion-player"]
+    },
+    {
+      "id": "git",
+      "name": "Git",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+      "level": "Intermediate",
+      "category": "DevOps",
+      "experience": [
+        "Version control for all projects",
+        "Collaborative development workflows",
+        "Branch management and code reviews"
+      ],
+      "projects": ["moodshare", "emotion-player"]
+    },
+    {
+      "id": "linux",
+      "name": "Linux",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg",
+      "level": "Intermediate",
+      "category": "DevOps",
+      "experience": [
+        "Command line proficiency",
+        "Server configuration and deployment",
+        "Shell scripting"
+      ],
+      "projects": []
+    },
+    {
+      "id": "docker",
+      "name": "Docker",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+      "level": "Basic",
+      "category": "DevOps",
+      "experience": [
+        "Containerization of applications",
+        "Docker Compose for multi-container apps",
+        "Development environment setup"
+      ],
+      "projects": []
+    },
+    {
+      "id": "aws",
+      "name": "AWS",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg",
+      "level": "Basic",
+      "category": "DevOps",
+      "experience": [
+        "EC2 instance management",
+        "S3 for static file storage",
+        "Basic cloud deployment"
+      ],
+      "projects": []
+    },
+    {
+      "id": "postman",
+      "name": "Postman",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg",
+      "level": "Intermediate",
+      "category": "Tools",
+      "experience": [
+        "API testing and documentation",
+        "Collection management for team workflows",
+        "Automated API testing"
+      ],
+      "projects": []
+    },
+    {
+      "id": "html-css",
+      "name": "HTML/CSS",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+      "level": "Intermediate",
+      "category": "Tools",
+      "experience": [
+        "Built this portfolio website",
+        "Responsive web design",
+        "CSS animations and transitions"
+      ],
+      "projects": []
+    },
+    {
+      "id": "vscode",
+      "name": "VS Code",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg",
+      "level": "Experienced",
+      "category": "Tools",
+      "experience": [
+        "Primary development environment",
+        "Extensions for Python, Java, and web development",
+        "Integrated debugging and Git workflows"
+      ],
+      "projects": []
+    },
+    {
+      "id": "opencv",
+      "name": "OpenCV",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg",
+      "level": "Intermediate",
+      "category": "Tools",
+      "experience": [
+        "Emotion detection using Fisher face method",
+        "90% accuracy in real-time emotion analysis",
+        "Computer vision for music player app"
+      ],
+      "projects": ["emotion-player"]
+    }
+  ],
+
+  "projects": [
+    {
+      "id": "moodshare",
+      "name": "Moodshare",
+      "description": "Twitter-inspired blog sharing web application",
+      "emoji": "💭",
+      "image": null,
+      "highlights": [
+        "Seamless functionality for 7+ concurrent users",
+        "OAuth-based authentication for secure access",
+        "Responsive minimalist design",
+        "SQLAlchemy ORM for personalized user feeds"
+      ],
+      "tech": ["Python", "Flask", "SQLAlchemy", "Bootstrap"],
+      "github": "https://github.com/ritiksharma04",
+      "live": null
+    },
+    {
+      "id": "emotion-player",
+      "name": "Emotion Based Music Player",
+      "description": "Web app that plays music based on detected emotions",
+      "emoji": "🎵",
+      "image": null,
+      "highlights": [
+        "90% accuracy in emotion detection using Fisher face method",
+        "Real-time emotion analysis",
+        "Personalized music library with 85% positive feedback",
+        "Built with effective team collaboration"
+      ],
+      "tech": ["Python", "Computer Vision", "Flask", "OpenCV"],
+      "github": "https://github.com/ritiksharma04",
+      "live": null
+    }
+  ],
+
+  "experience": [
+    {
+      "id": "nextgen",
+      "company": "NextGen Archs India Pvt. Ltd",
+      "role": "Software Developer Intern",
+      "period": "Sep 2025 - Present",
+      "highlights": [
+        "Developing REST APIs using FastAPI for backend services",
+        "Built reusable Category Management System across 3+ microservices",
+        "Implemented JWT authentication with PostgreSQL and Redis"
+      ]
+    },
+    {
+      "id": "hulkhire",
+      "company": "HulkHire Tech",
+      "role": "Java Developer Intern",
+      "period": "Feb 2025 - Mar 2025",
+      "highlights": [
+        "Integrated Stripe payment gateway with Spring Boot",
+        "Optimized REST APIs by 30% response time",
+        "Worked in Agile development environment"
+      ]
+    },
+    {
+      "id": "ssdn",
+      "company": "SSDN Technologies",
+      "role": "Python Trainee",
+      "period": "2024",
+      "highlights": [
+        "Developed automated email sender system",
+        "Performed code reviews and quality checks",
+        "Completed Advanced Python Training"
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Institute of Technology Management",
+      "degree": "Bachelor of Technology - Computer Science",
+      "period": "2018 - 2022",
+      "details": "CGPA: 8.06 | Affiliated to RGPV University",
+      "courses": [
+        "Data Structures & Algorithms",
+        "Database Management Systems",
+        "Operating Systems",
+        "Computer Networks",
+        "Object-Oriented Programming",
+        "Software Engineering",
+        "Web Technologies",
+        "Machine Learning",
+        "Data Science", 
+        "Data Analytics"
+      ]
+    }
+  ]
+}
