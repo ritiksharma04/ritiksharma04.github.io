@@ -1,0 +1,32 @@
+---
+import PortfolioLayout from '../layouts/PortfolioLayout.astro';
+import profile from '../data/profile.json';
+import now from '../data/now.json';
+---
+
+<PortfolioLayout
+	title="About | Ritik Sharma"
+	description="A little about Ritik Sharma: Python backend engineer, reader, foreign-film fan, teammate, and student of how LLMs work."
+>
+	<header class="page-intro">
+		<p class="eyebrow">A little more than a job title</p>
+		<h1>Curious about how things work.</h1>
+		<p>I’m Ritik Sharma, a Python backend developer in {profile.location}. I like understanding what happens beneath the surface, then explaining what I learn in plain language.</p>
+	</header>
+
+	<div class="about-columns">
+		<div class="about-prose">
+			<p>At work, I build APIs and backend services with Python. I enjoy working with a team when we have a clear plan, can share context, and move through the work together.</p>
+			<p>Lately, I’ve been trying to build a language model from scratch. I’ve only just started, and that’s the point: I want to understand the inner workings instead of treating the model as a black box. I’m writing about the questions and discoveries as I go.</p>
+			<p>Away from code, I enjoy books and foreign films.</p>
+			<p>This site is where I keep both sides: the systems I’ve worked on and the things I’m still figuring out.</p>
+		</div>
+		<aside class="about-aside" aria-labelledby="current-heading">
+			<h2 id="current-heading">On my desk lately</h2>
+			<ul>
+				{now.currentlyExploring.map((item) => <li>{item}</li>)}
+				<li>Books and foreign films</li>
+			</ul>
+		</aside>
+	</div>
+</PortfolioLayout>

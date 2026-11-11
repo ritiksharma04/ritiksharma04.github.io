@@ -1,0 +1,35 @@
+[
+  {
+    "id": "nextgen",
+    "company": "NextGen Archs India Pvt. Ltd",
+    "role": "Software Developer Intern",
+    "period": "Sep 2025 - Present",
+    "highlights": [
+      "Developing REST APIs using FastAPI for backend services",
+      "Built reusable Category Management System across 3+ microservices",
+      "Implemented JWT authentication with PostgreSQL and Redis"
+    ]
+  },
+  {
+    "id": "hulkhire",
+    "company": "HulkHire Tech",
+    "role": "Java Developer Intern",
+    "period": "Feb 2025 - Mar 2025",
+    "highlights": [
+      "Integrated Stripe payment gateway with Spring Boot",
+      "Optimized REST APIs by 30% response time",
+      "Worked in Agile development environment"
+    ]
+  },
+  {
+    "id": "ssdn",
+    "company": "SSDN Technologies",
+    "role": "Python Trainee",
+    "period": "2024",
+    "highlights": [
+      "Developed automated email sender system",
+      "Performed code reviews and quality checks",
+      "Completed Advanced Python Training"
+    ]
+  }
+]

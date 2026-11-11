@@ -1,0 +1,60 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import FormattedDate from '../../components/FormattedDate.astro';
+import Header from '../../components/Header.astro';
+import { slugifyTag } from '../../utils/blog';
+
+const posts = (await getCollection('blog', ({ data }) => !data.draft)).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title="Engineering Blog | Ritik Sharma" description="Notes on Python backend engineering and a first-person learning log on how large language models work from the inside." />
+		<link rel="stylesheet" href="/style.css" />
+		<link rel="stylesheet" href="/blog.css" />
+		<link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+		<style>
+			.blog-intro { margin-bottom: 2rem; }
+			.post-list { display: grid; gap: 1.25rem; list-style: none; margin: 1.5rem 0 0; padding: 0; }
+			.post-card h2 { font-size: 1.35rem; margin: .25rem 0; }
+			.post-card h2 a { text-decoration: none; }
+			.post-card p { margin: .4rem 0; }
+			.post-meta, .tags { color: rgb(var(--gray)); font-size: .9rem; }
+			.tags { display: flex; gap: .75rem; flex-wrap: wrap; margin-top: .75rem; }
+			#search { margin: 1rem 0 2rem; }
+			@media (max-width: 720px) { .post-card { padding: 1rem; } }
+		</style>
+	</head>
+	<body class="blog-site">
+		<Header />
+		<main class="site-main">
+			<section class="blog-intro">
+				<h1>Engineering blog</h1>
+				<p>Notes from building Python backends and learning how LLMs work from the inside. I’m early in the LLM journey, so these posts will document questions and progress as I go.</p>
+				<div id="search" aria-label="Search blog posts"></div>
+				<ul class="post-list">
+					{posts.map((post) => (
+						<li class="post-card" data-pagefind-body>
+							<p class="post-meta">{post.data.category} · <FormattedDate date={post.data.pubDate} /> · {Math.max(1, Math.ceil(post.body.split(/\s+/).length / 220))} min read</p>
+							<h2><a href={`/blog/${post.id}/`}>{post.data.title}</a></h2>
+							<p>{post.data.description}</p>
+							{post.data.tags.length > 0 && <div class="tags">{post.data.tags.map((tag) => <a href={`/blog/tags/${slugifyTag(tag)}/`}>#{tag}</a>)}</div>}
+						</li>
+					))}
+				</ul>
+			</section>
+		</main>
+		<Footer />
+		<script is:inline src="/pagefind/pagefind-ui.js"></script>
+		<script is:inline>
+			window.addEventListener('DOMContentLoaded', () => {
+				if (window.PagefindUI) new window.PagefindUI({ element: '#search', showSubResults: true, showImages: false });
+			});
+		</script>
+	</body>
+</html>

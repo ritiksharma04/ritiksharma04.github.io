@@ -1,0 +1,18 @@
+---
+const currentYear = new Date().getFullYear();
+---
+
+<footer class="site-footer">
+	<p>&copy; <span id="footerYear">{currentYear}</span> Ritik Sharma</p>
+	<p>Python backend engineering · learning how LLMs work</p>
+</footer>
+
+<script>
+	const footerYear = document.getElementById('footerYear');
+	if (footerYear) footerYear.textContent = String(new Date().getFullYear());
+</script>
+
+<style is:global>
+	body:not(.portfolio-site) .site-footer { padding: 2rem 1rem; color: rgb(var(--gray)); text-align: center; }
+	body:not(.portfolio-site) .site-footer p { margin: .3rem 0; }
+</style>
