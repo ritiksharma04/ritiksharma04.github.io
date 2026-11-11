@@ -1,0 +1,28 @@
+YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éí×^;á:-jZ.¶›­–)Ş³T–×÷'BW&Â‚&‡GG3¢òöföçG2ævöövÆV—2æ6öÒö773#öfÖ–Ç“Ô–çFW#§vv‡D3³C³S³c³sffÖ–Ç“Ô¦WD'&–ç2´Ööæó§vv‡DC³SffÖ–Ç“Ô6fVC§vv‡DC³S³c³sfF—7Æ“×7v"“°Ğ Ğ¢ò¢ÓÓÓÓÒ552d$”$ÄU2Ò44Ä"D$²D„TÔRÓÓÓÓÒ¢ğĞ£§&ö÷B°Ğ¢ò¢&6¶w&÷VæB6öÆ÷'2¢ğĞ¢ÒÖ&r×&–Ö'“¢3°Ğ¢ÒÖ&r×6V6öæF'“¢3ccc°Ğ¢ÒÖ&rÖ6&C¢3CCC°Ğ¢ÒÖ&rÖ6&BÖ†÷fW#¢3°Ğ¢ÒÖ&rÖÖöFÃ¢3°Ğ Ğ¢ò¢FW‡B6öÆ÷'2¢ğĞ¢Ò×FW‡B×&–Ö'“¢6SvSvSs°Ğ¢Ò×FW‡B×6V6öæF'“¢6°Ğ¢Ò×FW‡BÖ×WFVC¢3f#f#f#°Ğ Ğ¢ò¢66VçB6öÆ÷'2Òv†—FR†–v†Æ–v‡Bv—F‚&Æ6²FW‡B¢ğĞ¢ÒÖ66VçC¢6fffffc°Ğ¢ÒÖ66VçBÖ†÷fW#¢6SSS°Ğ¢ÒÖ66VçBÖvÆ÷s¢&v&ƒ#SRÂ#SRÂ#SRÂãR“°Ğ¢ÒÖ66VçBÖ&÷&FW#¢&v&ƒ#SRÂ#SRÂ#SRÂã2“°Ğ Ğ¢ò¢&÷&FW"6öÆ÷'2¢ğĞ¢ÒÖ&÷&FW#¢3ccc°Ğ¢ÒÖ&÷&FW"Ö†÷fW#¢3&&&°Ğ Ğ¢ò¢6†F÷w2¢ğĞ¢Ò×6†F÷r×6Ó¢'‚G‚&v&ƒÂÂÂã2“°Ğ¢Ò×6†F÷rÖÖC¢G‚'‚&v&ƒÂÂÂãB“°Ğ¢Ò×6†F÷rÖÆs¢‡‚#G‚&v&ƒÂÂÂãR“°Ğ¢Ò×6†F÷rÖvÆ÷s¢#‚f"‚ÒÖ66VçBÖvÆ÷r“°Ğ Ğ¢ò¢76–ær¢ğĞ¢Ò×76R×‡3¢ã#W&VÓ°Ğ¢Ò×76R×6Ó¢ãW&VÓ°Ğ¢Ò×76RÖÖC¢&VÓ°Ğ¢Ò×76RÖÆs¢ãW&VÓ°Ğ¢Ò×76R×†Ã¢'&VÓ°Ğ¢Ò×76RÓ'†Ã¢7&VÓ°Ğ¢Ò×76RÓ7†Ã¢G&VÓ°Ğ Ğ¢ò¢&÷&FW"&F—W2¢ğĞ¢Ò×&F—W2×6Ó¢gƒ°Ğ¢Ò×&F—W2ÖÖC¢ƒ°Ğ¢Ò×&F—W2ÖÆs¢gƒ°Ğ¢Ò×&F—W2×†Ã¢#Gƒ°Ğ Ğ¢ò¢G&ç6—F–öç2¢ğĞ¢Ò×G&ç6—F–öâÖf7C¢S×2V6S°Ğ¢Ò×G&ç6—F–öâÖ&6S¢#S×2V6S°Ğ¢Ò×G&ç6—F–öâ×6Æ÷s¢C×2V6S°Ğ Ğ¢ò¢G—öw&‡’¢ğĞ¢ÒÖföçB×6ç3¢t–çFW"rÂÖÆR×7—7FVÒÂ&Æ–æ´Ö57—7FVÔföçBÂu6VvöRT’rÂ6ç2×6W&–c°Ğ¢tã¾-¢G§²ÚîÆ­yÒound: var(--accent);
+  color: #000;
+}
+
+/* Phase 2: keyboard focus and native control resets */
+.skip-link { position: fixed; z-index: 10000; top: 1rem; left: 1rem; padding: .75rem 1rem; color: #fff; background: #111; transform: translateY(-200%); }
+.skip-link:focus { transform: translateY(0); }
+:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+.hamburger { border: 0; background: transparent; color: inherit; font: inherit; }
+.hamburger span { pointer-events: none; }
+.skill-card { width: 100%; color: inherit; font: inherit; }
+.modal-project-tag { font-family: inherit; }
+.timeline-header { width: 100%; border-top: 0; border-left: 0; border-right: 0; background: transparent; color: inherit; font: inherit; text-align: left; }
+
+/* Familiar portfolio hero without the fake terminal treatment. */
+.hero-intro {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: clamp(2rem, 5vw, 4rem);
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
+}
+.hero-eyebrow { color: var(--accent); font-size: .9rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; }
+.hero-intro h1 { margin: .75rem 0 .3rem; color: var(--text-primary); font-size: clamp(2.7rem, 7vw, 4.7rem); line-height: 1.05; }
+.hero-role { margin: 0; color: var(--accent); font-size: 1.2rem; font-weight: 600; }
+.hero-tagline { max-width: 580px; margin: 1rem auto 0; color: var(--text-secondary); font-size: 1.05rem; }

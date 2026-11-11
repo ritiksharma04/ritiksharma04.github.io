@@ -1,0 +1,32 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../../../components/BaseHead.astro';
+import Footer from '../../../components/Footer.astro';
+import Header from '../../../components/Header.astro';
+import { slugifyTag } from '../../../utils/blog';
+
+export async function getStaticPaths() {
+	const posts = await getCollection('blog', ({ data }) => !data.draft);
+	const tags = [...new Set(posts.flatMap((post) => post.data.tags.map(slugifyTag)))];
+	return tags.map((tag) => ({ params: { tag }, props: { tag, posts: posts.filter((post) => post.data.tags.some((item) => slugifyTag(item) === tag)) } }));
+}
+
+const { tag, posts } = Astro.props;
+---
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`Posts tagged #${tag} | Ritik Sharma`} description={`Engineering notes tagged ${tag}.`} />
+		<link rel="stylesheet" href="/style.css" />
+		<link rel="stylesheet" href="/blog.css" />
+	</head>
+	<body class="blog-site">
+		<Header />
+		<main class="site-main">
+			<h1 class="tag-heading">Posts tagged #{tag}</h1>
+			<ul class="tag-posts">{posts.map((post) => <li><a href={`/blog/${post.id}/`}>{post.data.title}</a><p>{post.data.description}</p></li>)}</ul>
+			<p><a class="back-to-blog" href="/blog/">← All posts</a></p>
+		</main>
+		<Footer />
+	</body>
+</html>

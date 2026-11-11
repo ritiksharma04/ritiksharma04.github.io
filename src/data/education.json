@@ -1,0 +1,20 @@
+[
+{
+  "institution": "Institute of Technology Management",
+  "degree": "Bachelor of Technology - Computer Science",
+  "period": "2018 - 2022",
+  "details": "CGPA: 8.06 | Affiliated to RGPV University",
+  "courses": [
+    "Data Structures & Algorithms",
+    "Database Management Systems",
+    "Operating Systems",
+    "Computer Networks",
+    "Object-Oriented Programming",
+    "Software Engineering",
+    "Web Technologies",
+    "Machine Learning",
+    "Data Science",
+    "Data Analytics"
+  ]
+}
+]

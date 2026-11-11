@@ -1,0 +1,19 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import '../styles/portfolio.css';
+
+interface Props { title: string; description: string; }
+const { title, description } = Astro.props;
+---
+<!doctype html>
+<html lang="en">
+	<head><BaseHead title={title} description={description} /></head>
+	<body class="portfolio-site">
+		<a class="skip-link" href="#main-content">Skip to content</a>
+		<Header />
+		<main id="main-content" class="site-main"><slot /></main>
+		<Footer />
+	</body>
+</html>

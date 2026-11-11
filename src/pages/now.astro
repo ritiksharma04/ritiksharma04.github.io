@@ -1,0 +1,27 @@
+---
+import { getCollection } from 'astro:content';
+import PortfolioLayout from '../layouts/PortfolioLayout.astro';
+import now from '../data/now.json';
+
+const posts = (await getCollection('blog', ({ data }) => !data.draft))
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+	.slice(0, 3);
+---
+
+<PortfolioLayout title="Now | Ritik Sharma" description="What I am learning and writing about right now.">
+	<header class="page-intro">
+		<p class="eyebrow">A small snapshot</p>
+		<h1>What I’m focused on now</h1>
+		<p>This page is a short, changing note about what I’m learning. I’ll update it as my focus changes.</p>
+	</header>
+	<section aria-labelledby="learning-heading">
+		<h2 id="learning-heading">Currently exploring</h2>
+		<ul>{now.currentlyExploring.map((item) => <li>{item}</li>)}</ul>
+		<p>I’ve only just started, so I’m using the blog to keep a record of the questions and ideas I’m working through.</p>
+	</section>
+	<section aria-labelledby="recent-heading">
+		<h2 id="recent-heading">Recent notes</h2>
+		{posts.length > 0 ? <ul>{posts.map((post) => <li><a href={`/blog/${post.id}/`}>{post.data.title}</a></li>)}</ul> : <p>No notes published yet. The first one will appear here.</p>}
+		<p><a href="/blog/">Browse the engineering blog →</a></p>
+	</section>
+</PortfolioLayout>

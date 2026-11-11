@@ -1,0 +1,18 @@
+{
+  "name": "Ritik Sharma",
+  "roles": [
+    "Python Developer",
+    "Data Engineer",
+    "Backend Developer",
+    "Software Engineer"
+  ],
+  "tagline": "Building efficient solutions through clean code and robust architecture",
+  "email": "ritikmgmt@gmail.com",
+  "resume": "/resume.pdf",
+  "location": "Bengaluru, India",
+  "professionalExperience": "~1 year",
+  "interests": [
+    "Foreign films",
+    "Books"
+  ]
+}
