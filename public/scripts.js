@@ -1,1 +1,643 @@
-Y™Áäx-ÆÈ‹j◊ù¢Îi∫⁄+äßj[hëÈ‹¢ÈÌÛN;NãZñã≠¶Îeäw¨‘ººÄÙÙÙÙÙÅA=IQ=1%<ÅQÄÙÙÙÙÙ4)±ï–Å¡Ω…—ôΩ±•ΩÖ—ÑÄÙÅπ’±∞Ï4)±ï–Å±ÖÕ—5ΩëÖ±Q…•ùùï»ÄÙÅπ’±∞Ï4(4(ººÄÙÙÙÙÙÅ=4Å159QLÄÙÙÙÙÙ4)çΩπÕ–Åï±ïµïπ—ÃÄÙÅÏ4(ÄÅπÖµï=’—¡’–ËÅëΩç’µïπ–πùï—±ïµïπ—	Â%ê†ùπÖµï=’—¡’–ú§∞4(ÄÅ…Ω±ïQÂ¡•πúËÅëΩç’µïπ–πùï—±ïµïπ—	Â%ê†ù…Ω±ïQÂ¡•πúú§∞4(ÄÅ—Öù±•πï=’—¡’–ËÅëΩç’µïπ–πùï—±ïµïπ—	Â%ê†ù—Öù±•πï=’—¡’–ú§∞4(ÄÅ…ïÕ’µï	—∏ËÅëΩç’µïπ–πùï—±ïµïπ—	Â%ê†ù…ïÕ’µï	—∏ú§∞4(ÄÅÕ≠•±±ÕΩπ—Ö•πï»ËÅëΩç’µïπ–πùï—±ïµïπ—	Â%ê†ùÕ≠•±±ÕΩπ—Ö•πï»ú§∞4(ÄÅ¡…Ω©ïç—Õ…•êËÅëΩç’µïπ–πùï—±ïµïπ—	Â%ê†ù¡…Ω©ïç—Õ…•êú§∞4(ÄÅï·¡ï…•ïπçïQ•µï±•πîËÅëΩç’µïπ–πùï—±ïµïπ—	Â%ê†ùï·¡ï…•ïπçïQ•µï±•πîú§∞4(ÄÅïë’çÖ—•ΩπQ•µï±•πîËÅëΩç’µïπ–πùï—±ïµïπ—	Â%ê†ùïë’çÖ—•ΩπQ•µï±•πîú§∞4(ÄÅçΩπ—Öç—1•π≠ÃËÅëΩç’µïπ–πùï—±ïµïπ—	Â%ê†ùçΩπ—Öç—1•π≠Ãú§∞4(ÄÅÕ≠•±±5ΩëÖ∞ËÅëΩç’µïπ–πùï—±ïµïπ—	Â%ê†ùÕ≠•±±5ΩëÖ∞ú§∞4(ÄÅµΩëÖ±%çΩ∏ËÅëΩç’µïπ–πùï—±ïµïπ—	Â%ê†ùµΩëÖ±%çΩ∏ú§∞4(ÄÅµΩëÖ±Q•—±îËÅëΩç’µïπ–πùï—±ïµïπ—	Â%ê†ùµΩëÖ±Q•—±îú§∞4(ÄÅµΩëÖ±1ïŸï∞ËÅëΩç’µïπ–πùï—±ïµïπ—	Â%ê†ùµΩëÖ±1ïŸï∞ú§∞4(ÄÅµΩëÖ±·¡ï…•ïπçîËÅëΩç’µïπ–πùï—±ïµïπ—	Â%ê†ùµΩëÖ±·¡ï…•ïπçîú§∞4(ÄÅµΩëÖ±A…Ω©ïç—ÃËÅëΩç’µïπ–πùï—±ïµïπ—	Â%ê†ùµΩëÖ±A…Ω©ïç—Ãú§∞4(ÄÅµΩëÖ±A…Ω©ïç—ÕMïç—•Ω∏ËÅëΩç’µïπ–πùï—±ïµïπ—	Â%ê†ùµΩëÖ±A…Ω©ïç—ÕMïç—•Ω∏ú§∞4)ÙÏ4(4(ººÄÙÙÙÙÙÅ%9%Q%1%iÄÙÙÙÙÙ4)ëΩç’µïπ–πÖëëŸïπ—1•Õ—ïπï»†ù=5Ωπ—ïπ—1ΩÖëïêú∞ÅÖÕÂπåÄ†§ÄÙ¯ÅÏ4(ÄÅçΩπÕ–Åç’……ïπ—eïÖ»ÄÙÅëΩç’µïπ–πùï—±ïµïπ—	Â%ê†ùç’……ïπ—eïÖ»ú§Ï4(ÄÅ•òÄ°ç’……ïπ—eïÖ»§Åç’……ïπ—eïÖ»π—ï·—Ωπ—ïπ–ÄÙÅM—…•πú°πï‹ÅÖ—î†§πùï—’±±eïÖ»†§§Ï4(ÄÅÖ›Ö•–Å±ΩÖëAΩ…—ôΩ±•ΩÖ—Ñ†§Ï4(ÄÅ•π•—QÂ¡•πùπ•µÖ—•Ω∏†§Ï4(ÄÅ•π•—Öëï%ππ•µÖ—•ΩπÃ†§Ï4)Ù§Ï4(4(ººÄÙÙÙÙÙÅ1=Å)M=8ÅQÄÙÙÙÙÙ4)ÖÕÂπåÅô’πç—•Ω∏Å±ΩÖëAΩ…—ôΩ±•ΩÖ—Ñ†§ÅÏ(ÄÅ—…‰ÅÏ(ÄÄÄÅ•òÄ£Ω8Ó⁄$z{-ÆÈ‹j◊ùFTñ‰Êñ÷FñˆÁ2Çí∞–¢6ˆÁ7Bˆ'6W'fW"“ÊWrñÁFW'6V7Fñˆ‰ˆ'6W'fW"ÇÜVÁG&ñW2í”‚∞–¢VÁG&ñW2Êf˜$V6ÇÜVÁG'í”‚∞–¢ñbÜVÁG'íÊó4ñÁFW'6V7FñÊrí∞–¢VÁG'íÁF&vWBÊ6∆74∆ó7BÊFBÇwfó6ñ&∆Rrì∞–¢––¢“ì∞–¢“¬∞–¢Fá&W6Üˆ∆C¢„¿–¢&ˆ˜D÷&vñ„¢sÇÇ”SÇÇp–¢“ì∞–†–¢Fˆ7V÷VÁBÁVW'ï6V∆V7F˜$∆¬ÇrÊfFR÷ñ‚ríÊf˜$V6ÇÜV¬”‚∞–¢ˆ'6W'fW"Êˆ'6W'fRÜV¬ì∞–¢“ì∞–ß––†–¢ÚÚ””””“dƒƒ$4≤4ÙÂDTÂB””””––¶gVÊ7Fñˆ‚6Ü˜tf∆∆&6¥6ˆÁFVÁBÇí∞–¢V∆V÷VÁG2ÊÊ÷T˜WGWBÁFWáD6ˆÁFVÁB“W'6ˆÊ¬ÊÊ÷S∞–¢V∆V÷VÁG2ÁFv∆ñÊT˜WGWBÁFWáD6ˆÁFVÁB“r$'Vñ∆FñÊrVffñ6ñVÁB6ˆ«WFñˆÁ2Fá&˜VvÇ6∆V‚6ˆFR"s∞–¢V∆V÷VÁG2Á&ˆ∆UGóñÊrÁFWáD6ˆÁFVÁB“s‚óFÜˆ‚FWfV∆˜W"s∞–†–¢V∆V÷VÁG2Á6∂ñ∆«46ˆÁFñÊW"ÊñÊÊW$ÖD‘¬“s«7Gñ∆S“&6ˆ∆˜#¢f"Ç“◊FWáB÷◊WFVBì≤FWáB÷∆ñv„¢6VÁFW#≤#‰∆ˆFñÊr6∂ñ∆«2‚‚„¬˜‚s∞–¢V∆V÷VÁG2Á&ˆ¶V7G4w&ñBÊñÊÊW$ÖD‘¬“s«7Gñ∆S“&6ˆ∆˜#¢f"Ç“◊FWáB÷◊WFVBì≤FWáB÷∆ñv„¢6VÁFW#≤#‰∆ˆFñÊr&ˆ¶V7G2‚‚„¬˜‚s∞–¢V∆V÷VÁG2ÊWáW&ñVÊ6UFñ÷V∆ñÊRÊñÊÊW$ÖD‘¬“s«7Gñ∆S“&6ˆ∆˜#¢f"Ç“◊FWáB÷◊WFVBì≤FWáB÷∆ñv„¢6VÁFW#≤#‰∆ˆFñÊrWáW&ñVÊ6R‚‚„¬˜‚s∞–ß––†–¢ÚÚ””””“4‘ÙıDÇ45$Ùƒ¬dı"‰bƒî‰µ2””””––¶Fˆ7V÷VÁBÁVW'ï6V∆V7F˜$∆¬Çv∂á&Ve„“"2%“ríÊf˜$V6ÇÜÊ6Ü˜"”‚∞–¢Ê6Ü˜"ÊFDWfVÁD∆ó7FVÊW"Çv6∆ñ6≤r¬gVÊ7Fñˆ‚ÜRí∞–¢6ˆÁ7Bá&Vb“FÜó2ÊvWDGG&ñ'WFRÇvá&Vbrì∞–¢ñbÜá&Vb”“r2rí∞–¢RÁ&WfVÁDFVfV«BÇì∞–¢6ˆÁ7BF&vWB“Fˆ7V÷VÁBÁVW'ï6V∆V7F˜"Üá&Vbì∞–¢ñbáF&vWBí∞–¢F&vWBÁ67&ˆ∆ƒñÁFıfñWrá∞–¢&VÜfñ˜#¢w6÷ˆ˜FÇr¿–¢&∆ˆ6≥¢w7F'Bp–¢“ì∞–¢––¢––¢“ì∞–ß“ì∞–†–†–
+// ===== PORTFOLIO DATA =====
+let portfolioData = null;
+let lastModalTrigger = null;
+
+// ===== DOM ELEMENTS =====
+const elements = {
+  nameOutput: document.getElementById('nameOutput'),
+  roleTyping: document.getElementById('roleTyping'),
+  taglineOutput: document.getElementById('taglineOutput'),
+  resumeBtn: document.getElementById('resumeBtn'),
+  skillsContainer: document.getElementById('skillsContainer'),
+  projectsGrid: document.getElementById('projectsGrid'),
+  experienceTimeline: document.getElementById('experienceTimeline'),
+  educationTimeline: document.getElementById('educationTimeline'),
+  contactLinks: document.getElementById('contactLinks'),
+  skillModal: document.getElementById('skillModal'),
+  modalIcon: document.getElementById('modalIcon'),
+  modalTitle: document.getElementById('modalTitle'),
+  modalLevel: document.getElementById('modalLevel'),
+  modalExperience: document.getElementById('modalExperience'),
+  modalProjects: document.getElementById('modalProjects'),
+  modalProjectsSection: document.getElementById('modalProjectsSection'),
+};
+
+// ===== INITIALIZE =====
+document.addEventListener('DOMContentLoaded', async () => {
+  const currentYear = document.getElementById('currentYear');
+  if (currentYear) currentYear.textContent = String(new Date().getFullYear());
+  await loadPortfolioData();
+  initTypingAnimation();
+  initFadeInAnimations();
+});
+
+// ===== LOAD JSON DATA =====
+async function loadPortfolioData() {
+  try {
+    if (window.portfolioData) {
+      portfolioData = window.portfolioData;
+    } else {
+      const response = await fetch('./data/portfolio.json');
+      portfolioData = await response.json();
+    }
+    renderAll();
+  } catch (error) {
+    console.error('Error loading portfolio data:', error);
+    showFallbackContent();
+  }
+}
+
+// ===== RENDER ALL SECTIONS =====
+function renderAll() {
+  renderHero();
+  renderExperienceTimeline();
+  renderEducationTimeline();
+  renderSkills();
+  renderProjects();
+  renderContact();
+}
+
+// ===== HERO SECTION =====
+function renderHero() {
+  const { personal } = portfolioData;
+
+  elements.nameOutput.textContent = personal.name;
+  elements.taglineOutput.textContent = 'I build Python backends and am learning how LLMs work from the inside.';
+
+  if (personal.resume && personal.resume !== '#') {
+    elements.resumeBtn.href = personal.resume;
+    elements.resumeBtn.addEventListener('click', (e) => {
+      if (personal.resume && personal.resume !== '#') {
+        window.open(personal.resume, '_blank');
+        e.preventDefault();
+      }
+    });
+  }
+}
+
+// ===== API DEMO MOCKUP =====
+const apiEndpoints = {
+  developer: {
+    title: 'Get Developer',
+    description: 'Returns information about this developer',
+    method: 'GET',
+    path: '/api/developer',
+    url: 'api.ritiksharma.dev/developer',
+    response: () => ({
+      name: portfolioData.personal.name,
+      title: portfolioData.personal.roles[0],
+      skills: ['Python', 'FastAPI', 'Django', 'PostgreSQL', 'REST APIs'],
+      available: true,
+      status: 'Open to work'
+    })
+  },
+  skills: {
+    title: 'Get Skills',
+    description: 'Returns list of technical skills',
+    method: 'GET',
+    path: '/api/skills',
+    url: 'api.ritiksharma.dev/skills',
+    response: () => ({
+      total: portfolioData.skills.length,
+      categories: ['Languages', 'Frameworks', 'Databases', 'DevOps'],
+      skills: portfolioData.skills.slice(0, 6).map(s => ({
+        name: s.name,
+        level: s.level
+      }))
+    })
+  },
+  projects: {
+    title: 'Get Projects',
+    description: 'Returns featured projects',
+    method: 'GET',
+    path: '/api/projects',
+    url: 'api.ritiksharma.dev/projects',
+    response: () => ({
+      count: portfolioData.projects.length,
+      projects: portfolioData.projects.map(p => ({
+        name: p.name,
+        tech: p.tech.slice(0, 3)
+      }))
+    })
+  },
+  education: {
+    title: 'Get Education',
+    description: 'Returns educational background',
+    method: 'GET',
+    path: '/api/education',
+    url: 'api.ritiksharma.dev/education',
+    response: () => {
+      const edu = portfolioData.education[0];
+      return {
+        degree: edu.degree,
+        institution: edu.institution,
+        period: edu.period,
+        cgpa: 8.06,
+        university: 'RGPV University'
+      };
+    }
+  }
+};
+
+function renderApiDemo() {
+  const apiCode = document.getElementById('apiCode');
+  const apiSidebar = document.getElementById('apiSidebar');
+  const apiMobileTabs = document.getElementById('apiMobileTabs');
+
+  if (!apiCode) return;
+
+  // Render initial endpoint
+  updateApiDisplay('developer');
+
+  // Add click listeners to sidebar items (desktop)
+  if (apiSidebar) {
+    apiSidebar.querySelectorAll('.browser-sidebar-item[data-endpoint]').forEach(item => {
+      item.addEventListener('click', () => {
+        const endpoint = item.dataset.endpoint;
+
+        // Update active state for sidebar
+        apiSidebar.querySelectorAll('.browser-sidebar-item').forEach(i => i.classList.remove('active'));
+        item.classList.add('active');
+
+        // Also update mobile tabs
+        if (apiMobileTabs) {
+          apiMobileTabs.querySelectorAll('.api-mobile-tab').forEach(t => t.classList.remove('active'));
+          apiMobileTabs.querySelector(`[data-endpoint="${endpoint}"]`)?.classList.add('active');
+        }
+
+        // Update display
+        updateApiDisplay(endpoint);
+      });
+    });
+  }
+
+  // Add click listeners to mobile tabs
+  if (apiMobileTabs) {
+    apiMobileTabs.querySelectorAll('.api-mobile-tab[data-endpoint]').forEach(tab => {
+      tab.addEventListener('click', () => {
+        const endpoint = tab.dataset.endpoint;
+
+        // Update active state for mobile tabs
+        apiMobileTabs.querySelectorAll('.api-mobile-tab').forEach(t => t.classList.remove('active'));
+        tab.classList.add('active');
+
+        // Also update sidebar
+        if (apiSidebar) {
+          apiSidebar.querySelectorAll('.browser-sidebar-item').forEach(i => i.classList.remove('active'));
+          apiSidebar.querySelector(`[data-endpoint="${endpoint}"]`)?.classList.add('active');
+        }
+
+        // Update display
+        updateApiDisplay(endpoint);
+      });
+    });
+  }
+}
+
+function updateApiDisplay(endpointKey) {
+  const endpoint = apiEndpoints[endpointKey];
+  if (!endpoint) return;
+
+  const apiTitle = document.getElementById('apiTitle');
+  const apiDescription = document.getElementById('apiDescription');
+  const apiMethod = document.getElementById('apiMethod');
+  const apiPath = document.getElementById('apiPath');
+  const urlPath = document.getElementById('urlPath');
+  const apiCode = document.getElementById('apiCode');
+
+  // Update info
+  if (apiTitle) apiTitle.textContent = endpoint.title;
+  if (apiDescription) apiDescription.textContent = endpoint.description;
+  if (apiMethod) {
+    apiMethod.textContent = endpoint.method;
+    apiMethod.className = `api-method ${endpoint.method.toLowerCase()}`;
+  }
+  if (apiPath) apiPath.textContent = endpoint.path;
+  if (urlPath) urlPath.textContent = endpoint.url;
+
+  // Update JSON response with syntax highlighting
+  if (apiCode) {
+    const response = endpoint.response();
+    apiCode.innerHTML = renderJson(response);
+  }
+}
+
+function renderJson(obj, indent = 0) {
+  const spaces = '  '.repeat(indent);
+  let html = '';
+
+  if (Array.isArray(obj)) {
+    if (obj.length === 0) {
+      return '<span class="code-line">[]</span>';
+    }
+    html += '<span class="code-line">[</span>';
+    obj.forEach((item, i) => {
+      const comma = i < obj.length - 1 ? ',' : '';
+      if (typeof item === 'object') {
+        html += renderJson(item, indent + 1);
+        if (comma) html = html.slice(0, -14) + ',' + '</span>';
+      } else {
+        html += `<span class="code-line">${spaces}  ${formatValue(item)}${comma}</span>`;
+      }
+    });
+    html += `<span class="code-line">${spaces}]</span>`;
+  } else if (typeof obj === 'object' && obj !== null) {
+    const keys = Object.keys(obj);
+    html += `<span class="code-line">${indent > 0 ? spaces : ''}{</span>`;
+    keys.forEach((key, i) => {
+      const comma = i < keys.length - 1 ? ',' : '';
+      const value = obj[key];
+      if (Array.isArray(value)) {
+        html += `<span class="code-line">${spaces}  <span class="code-property">"${key}"</span>: [</span>`;
+        value.forEach((item, j) => {
+          const itemComma = j < value.length - 1 ? ',' : '';
+          if (typeof item === 'object') {
+            html += renderJsonCompact(item, spaces + '    ') + itemComma;
+          } else {
+            html += `<span class="code-line">${spaces}    ${formatValue(item)}${itemComma}</span>`;
+          }
+        });
+        html += `<span class="code-line">${spaces}  ]${comma}</span>`;
+      } else if (typeof value === 'object' && value !== null) {
+        html += `<span class="code-line">${spaces}  <span class="code-property">"${key}"</span>: {</span>`;
+        Object.keys(value).forEach((subKey, j) => {
+          const subComma = j < Object.keys(value).length - 1 ? ',' : '';
+          html += `<span class="code-line">${spaces}    <span class="code-property">"${subKey}"</span>: ${formatValue(value[subKey])}${subComma}</span>`;
+        });
+        html += `<span class="code-line">${spaces}  }${comma}</span>`;
+      } else {
+        html += `<span class="code-line">${spaces}  <span class="code-property">"${key}"</span>: ${formatValue(value)}${comma}</span>`;
+      }
+    });
+    html += `<span class="code-line">${indent > 0 ? spaces : ''}}</span>`;
+  }
+
+  return html;
+}
+
+function renderJsonCompact(obj, spaces) {
+  let parts = [];
+  Object.keys(obj).forEach(key => {
+    parts.push(`<span class="code-property">"${key}"</span>: ${formatValue(obj[key])}`);
+  });
+  return `<span class="code-line">${spaces}{ ${parts.join(', ')} }</span>`;
+}
+
+function formatValue(val) {
+  if (typeof val === 'string') {
+    return `<span class="code-string">"${val}"</span>`;
+  } else if (typeof val === 'number') {
+    return `<span class="code-number">${val}</span>`;
+  } else if (typeof val === 'boolean') {
+    return `<span class="code-keyword">${val}</span>`;
+  } else if (val === null) {
+    return `<span class="code-keyword">null</span>`;
+  }
+  return String(val);
+}
+
+// ===== TYPING ANIMATION =====
+function initTypingAnimation() {
+  elements.roleTyping.textContent = 'Python Backend Developer';
+}
+
+// ===== EXPERIENCE TIMELINE =====
+function renderExperienceTimeline() {
+  const { experience } = portfolioData;
+
+  elements.experienceTimeline.innerHTML = experience.map((exp, index) => `
+    <div class="timeline-item ${index === 0 ? 'expanded' : 'collapsed'}" data-index="${index}">
+      <div class="timeline-date">
+        <span class="date-range">${exp.period}</span>
+      </div>
+      <div class="timeline-content">
+        <div class="timeline-card" data-date="${exp.period}">
+          <div class="timeline-header" onclick="toggleExperience(${index})">
+            <div class="timeline-header-info">
+              <h3 class="timeline-role">${exp.role}</h3>
+              <p class="timeline-company">${exp.company}</p>
+            </div>
+            <span class="timeline-toggle">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="6 9 12 15 18 9"></polyline>
+              </svg>
+            </span>
+          </div>
+          <div class="timeline-details" id="experience-details-${index}">
+            <ul class="timeline-highlights">
+              ${exp.highlights.map(h => `<li>${h}</li>`).join('')}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  `).join('');
+  elements.experienceTimeline.querySelectorAll('.timeline-header').forEach((header, index) => {
+    const item = header.closest('.timeline-item');
+    const details = header.nextElementSibling;
+    header.setAttribute('role', 'button');
+    header.setAttribute('tabindex', '0');
+    header.setAttribute('aria-controls', 'experience-details-' + index);
+    header.setAttribute('aria-expanded', String(item.classList.contains('expanded')));
+    if (details) details.id = 'experience-details-' + index;
+    header.addEventListener('keydown', (event) => {
+      if (event.key === 'Enter' || event.key === ' ') {
+        event.preventDefault();
+        header.click();
+      }
+    });
+  });
+}
+
+// ===== TOGGLE EXPERIENCE ITEM =====
+function toggleExperience(index) {
+  const items = elements.experienceTimeline.querySelectorAll('.timeline-item');
+  const clickedItem = items[index];
+
+  if (clickedItem.classList.contains('expanded')) {
+    // If clicking on already expanded item, collapse it
+    clickedItem.classList.remove('expanded');
+    clickedItem.classList.add('collapsed');
+  } else {
+    // Expand clicked item
+    clickedItem.classList.remove('collapsed');
+    clickedItem.classList.add('expanded');
+  }
+  const header = clickedItem.querySelector('.timeline-header');
+  header?.setAttribute('aria-expanded', String(clickedItem.classList.contains('expanded')));
+}
+
+// ===== EDUCATION TIMELINE =====
+function renderEducationTimeline() {
+  const { education } = portfolioData;
+
+  elements.educationTimeline.innerHTML = education.map(edu => `
+    <div class="timeline-item">
+      <div class="timeline-date">
+        <span class="date-range">${edu.period || ''}</span>
+      </div>
+      <div class="timeline-content">
+        <div class="timeline-card" data-date="${edu.period || ''}">
+          <h3 class="timeline-role">${edu.degree}</h3>
+          <p class="timeline-company">${edu.institution}</p>
+          <p class="education-details">${edu.details}</p>
+          ${edu.courses ? `
+            <div class="education-courses">
+              <span class="courses-label">Relevant Coursework:</span>
+              <div class="courses-list">
+                ${edu.courses.map(course => `<span class="course-tag">${course}</span>`).join('')}
+              </div>
+            </div>
+          ` : ''}
+        </div>
+      </div>
+    </div>
+  `).join('');
+}
+
+// ===== SKILLS SECTION =====
+function renderSkills() {
+  const { skills, skillCategories } = portfolioData;
+  const skillsContainer = document.getElementById('skillsContainer');
+
+  if (!skillsContainer) return;
+
+  // Render tabs
+  const tabsHtml = skillCategories.map((cat, index) => `
+    <button type="button" class="skill-tab ${index === 0 ? 'active' : ''}" aria-pressed="${index === 0}" data-category="${cat}">
+      ${cat}
+    </button>
+  `).join('');
+
+  // Group skills by category
+  const skillsByCategory = {};
+  skillCategories.forEach(cat => {
+    skillsByCategory[cat] = skills.filter(s => s.category === cat);
+  });
+
+  // Render skill grids for each category
+  const gridsHtml = skillCategories.map((cat, index) => `
+    <div class="skill-category-grid ${index === 0 ? 'active' : ''}" data-category="${cat}">
+      ${skillsByCategory[cat].map(skill => `
+        <button type="button" class="skill-card" aria-haspopup="dialog" onclick="openSkillModal('${skill.id}')">
+          <img src="${skill.icon}" alt="${skill.name}" class="skill-icon" loading="lazy" onerror="this.src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'">
+          <span class="skill-name">${skill.name}</span>
+          <span class="skill-level">${skill.level}</span>
+        </button>
+      `).join('')}
+    </div>
+  `).join('');
+
+  skillsContainer.innerHTML = `
+    <div class="skill-tabs">${tabsHtml}</div>
+    <div class="skill-grids">${gridsHtml}</div>
+  `;
+
+  // Add tab click handlers
+  skillsContainer.querySelectorAll('.skill-tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      const category = tab.dataset.category;
+
+      // Update active tab
+      skillsContainer.querySelectorAll('.skill-tab').forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+
+      // Update active grid
+      skillsContainer.querySelectorAll('.skill-category-grid').forEach(grid => {
+        grid.classList.toggle('active', grid.dataset.category === category);
+      });
+    });
+  });
+}
+
+// ===== SKILL MODAL =====
+function openSkillModal(skillId) {
+  const skill = portfolioData.skills.find(s => s.id === skillId);
+  if (!skill) return;
+  lastModalTrigger = document.activeElement;
+
+  elements.modalIcon.src = skill.icon;
+  elements.modalIcon.alt = skill.name;
+  elements.modalTitle.textContent = skill.name;
+  elements.modalLevel.textContent = skill.level;
+
+  elements.modalExperience.innerHTML = skill.experience
+    .map(exp => `<li>${exp}</li>`)
+    .join('');
+
+  if (skill.projects && skill.projects.length > 0) {
+    const projectNames = skill.projects.map(projectId => {
+      const project = portfolioData.projects.find(p => p.id === projectId);
+      return project ? `<button type="button" class="modal-project-tag" onclick="scrollToProject('${projectId}')">${project.name}</button>` : '';
+    }).filter(Boolean).join('');
+
+    elements.modalProjects.innerHTML = projectNames;
+    elements.modalProjectsSection.style.display = 'block';
+  } else {
+    elements.modalProjectsSection.style.display = 'none';
+  }
+
+  elements.skillModal.classList.add('active');
+  elements.skillModal.setAttribute('aria-hidden', 'false');
+  document.body.style.overflow = 'hidden';
+  document.getElementById('modalClose')?.focus();
+}
+
+function closeModal() {
+  if (!elements.skillModal.classList.contains('active')) return;
+  elements.skillModal.classList.remove('active');
+  elements.skillModal.setAttribute('aria-hidden', 'true');
+  document.body.style.overflow = '';
+  lastModalTrigger?.focus();
+  lastModalTrigger = null;
+}
+
+elements.skillModal.addEventListener('click', (e) => {
+  if (e.target === elements.skillModal) {
+    closeModal();
+  }
+});
+
+document.addEventListener('keydown', (event) => {
+  if (elements.skillModal.classList.contains('active')) {
+    if (event.key === 'Escape') {
+      closeModal();
+      return;
+    }
+    if (event.key === 'Tab') {
+      const focusable = Array.from(elements.skillModal.querySelectorAll('button:not([disabled]), a[href], [tabindex]:not([tabindex="-1"])'));
+      if (!focusable.length) return;
+      const first = focusable[0];
+      const last = focusable[focusable.length - 1];
+      if (event.shiftKey && document.activeElement === first) {
+        event.preventDefault();
+        last.focus();
+      } else if (!event.shiftKey && document.activeElement === last) {
+        event.preventDefault();
+        first.focus();
+      }
+    }
+    return;
+  }
+
+});
+
+function scrollToProject(projectId) {
+  closeModal();
+  setTimeout(() => {
+    const projectElement = document.querySelector(`[data-project-id="${projectId}"]`);
+    if (projectElement) {
+      projectElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      projectElement.style.animation = 'pulse 0.5s ease';
+    }
+  }, 300);
+}
+
+// ===== PROJECTS SECTION WITH PREVIEW =====
+function renderProjects() {
+  const projects = portfolioData.projects.filter(project => project.published !== false);
+
+  elements.projectsGrid.innerHTML = projects.map(project => `
+    <div class="project-card" data-project-id="${project.id}">
+      <div class="project-preview">
+        ${project.image
+          ? `<img src="${project.image}" alt="${project.name} preview" loading="lazy">`
+          : `<div class="project-preview-placeholder">${project.emoji || 'Python'}</div>`
+        }
+      </div>
+      <div class="project-content">
+        <h3 class="project-title">${project.name}</h3>
+        <p class="project-description">${project.description}</p>
+        <ul class="project-highlights">
+          ${project.highlights.map(h => `<li>${h}</li>`).join('')}
+        </ul>
+        <div class="project-tech">
+          ${project.tech.map(t => `<span class="tech-tag">${t}</span>`).join('')}
+        </div>
+        <div class="project-links">
+          <a href="/projects/${project.id}/" class="btn btn-secondary">Project Notes</a>
+          ${project.github ? `
+            <a href="${project.github}" target="_blank" rel="noopener" class="btn btn-secondary">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+              View Code
+            </a>
+          ` : ''}
+          ${project.live ? `
+            <a href="${project.live}" target="_blank" rel="noopener" class="btn btn-primary">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+              Live Demo
+            </a>
+          ` : ''}
+        </div>
+      </div>
+    </div>
+  `).join('');
+}
+
+// ===== CONTACT SECTION (SCALAR STYLE) =====
+function renderContact() {
+  const { personal } = portfolioData;
+
+  elements.contactLinks.innerHTML = `
+    <div class="contact-link-item">
+      <a href="mailto:${personal.email}">Send me an Email</a>
+      <span>${personal.email}</span>
+    </div>
+    <div class="contact-link-item">
+      <a href="https://linkedin.com/in/${personal.linkedin}" target="_blank" rel="noopener">Connect on LinkedIn</a>
+      <span>linkedin.com/in/${personal.linkedin}</span>
+    </div>
+    <div class="contact-link-item">
+      <a href="https://github.com/${personal.github}" target="_blank" rel="noopener">Check my GitHub</a>
+      <span>github.com/${personal.github}</span>
+    </div>
+  `;
+}
+
+// ===== FADE IN ANIMATIONS =====
+function initFadeInAnimations() {
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+      }
+    });
+  }, {
+    threshold: 0.1,
+    rootMargin: '0px 0px -50px 0px'
+  });
+
+  document.querySelectorAll('.fade-in').forEach(el => {
+    observer.observe(el);
+  });
+}
+
+// ===== FALLBACK CONTENT =====
+function showFallbackContent() {
+  elements.nameOutput.textContent = personal.name;
+  elements.taglineOutput.textContent = '"Building efficient solutions through clean code"';
+  elements.roleTyping.textContent = '> Python Developer';
+
+  elements.skillsContainer.innerHTML = '<p style="color: var(--text-muted); text-align: center;">Loading skills...</p>';
+  elements.projectsGrid.innerHTML = '<p style="color: var(--text-muted); text-align: center;">Loading projects...</p>';
+  elements.experienceTimeline.innerHTML = '<p style="color: var(--text-muted); text-align: center;">Loading experience...</p>';
+}
+
+// ===== SMOOTH SCROLL FOR NAV LINKS =====
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+  anchor.addEventListener('click', function (e) {
+    const href = this.getAttribute('href');
+    if (href !== '#') {
+      e.preventDefault();
+      const target = document.querySelector(href);
+      if (target) {
+        target.scrollIntoView({
+          behavior: 'smooth',
+          block: 'start'
+        });
+      }
+    }
+  });
+});
+
+
